@@ -1,0 +1,52 @@
+{
+  "_from": "flow-copy",
+  "_id": "flow-copy@0.1.2",
+  "_inBundle": false,
+  "_integrity": "sha1-saVWjD1go+jvvm22EMDyOco5Zn4=",
+  "_location": "/flow-copy",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "flow-copy",
+    "name": "flow-copy",
+    "escapedName": "flow-copy",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/flow-copy/-/flow-copy-0.1.2.tgz",
+  "_shasum": "b1a5568c3d60a3e8efbe6db610c0f239ca39667e",
+  "_spec": "flow-copy",
+  "_where": "/home/ohm/Desktop/Laravel/test1",
+  "author": {
+    "name": "Christopher Brown",
+    "email": "io@henrian.com",
+    "url": "http://henrian.com"
+  },
+  "bugs": {
+    "url": "https://github.com/chbrown/flow-copy/issues"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "DOM mechanism for creating an in-flow placeholder for an out-of-flow element",
+  "homepage": "https://github.com/chbrown/flow-copy",
+  "keywords": [
+    "browser",
+    "dom",
+    "position",
+    "fixed",
+    "absolute"
+  ],
+  "license": "MIT",
+  "name": "flow-copy",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/chbrown/flow-copy.git"
+  },
+  "version": "0.1.2"
+}

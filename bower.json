@@ -1,0 +1,12 @@
+{
+  "name": "angular",
+  "version": "1.0.0",
+  "dependencies": {
+    "bootstrap": "latest",
+    "angular": "latest",
+    "angular-route": "latest",
+    "ngstorage": "^0.3.11",
+    "angular-ui-router": "^1.0.13",
+    "json-patch": "^0.7.0"
+  }
+}
